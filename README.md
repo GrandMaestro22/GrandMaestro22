@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋
+I'm Ebube. I'm a Computer Science Student looking to strengthen my skills in Programming and all things computers!
+Currently, I'm learning HTML, CSS and Java, and I post projects I've made here on GitHub. I would love to get help on my code to learn from any of my mistakes, so I could write better code overall.
 
 <!--
 **GrandMaestro22/GrandMaestro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
